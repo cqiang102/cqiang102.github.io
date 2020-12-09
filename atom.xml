@@ -227,11 +227,11 @@
       <category term="笔记" scheme="https://blog.lacia.cn/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
+      <category term="Docker" scheme="https://blog.lacia.cn/tags/Docker/"/>
+    
       <category term="linux" scheme="https://blog.lacia.cn/tags/linux/"/>
     
       <category term="redis" scheme="https://blog.lacia.cn/tags/redis/"/>
-    
-      <category term="Docker" scheme="https://blog.lacia.cn/tags/Docker/"/>
     
       <category term="Spring boot" scheme="https://blog.lacia.cn/tags/Spring-boot/"/>
     
