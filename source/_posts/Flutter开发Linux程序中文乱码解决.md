@@ -7,7 +7,6 @@ type: posts
 description: Flutter linux 中文乱码（Ubuntu）
 ---
 
-# Flutter开发Linux程序中文乱码解决
 > 盲猜由于字体缺失导致乱码，于是我把字体加过去
 
 ## 下载[微软雅黑字体](https://blog.lacia.cn/other/msyh.ttc "从我服务器下")，也可以直接从 Windows 里复制一个
