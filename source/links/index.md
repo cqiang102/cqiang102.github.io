@@ -6,7 +6,7 @@ description: 这些都是大佬
 <div style="display:flex;">
 	<div style="flex:1;">
 		<h3>
-			<a href="http://blog.ncgame.cc/">
+			<a href="https://www.notbucai.com/">
 				<img style="width:60px; border-radius: 30px;" src="http://q2.qlogo.cn/headimg_dl?dst_uin=1450941858&spec=100"/>
 			</a>
 			<a href="https://www.notbucai.com/">不才 
