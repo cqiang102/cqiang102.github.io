@@ -9,7 +9,7 @@ description: 这些都是大佬
 			<a href="http://blog.ncgame.cc/">
 				<img style="width:60px; border-radius: 30px;" src="http://q2.qlogo.cn/headimg_dl?dst_uin=1450941858&spec=100"/>
 			</a>
-			<a href="http://blog.ncgame.cc/">不才 
+			<a href="https://www.notbucai.com/">不才 
 				<span style="font-size: 13px;color: #999;"> 咦？我是谁？我为什么会在这？
 				</span>
 			</a>
